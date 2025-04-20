@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <h7>
     <p align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,react,html,css,py,bs&perline=5" />
+        <img src="https://skillicons.dev/icons?i=js,react,html,css,py,bootstrap&perline=3" />
       </a>
     </p>
   </h7>
